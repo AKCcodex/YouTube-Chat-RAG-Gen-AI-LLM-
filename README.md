@@ -41,13 +41,5 @@ This project is a Gen AI solution that uses Retrieval-Augmented Generation (RAG)
 
 Check out the live version of the project [here](https://colab.research.google.com/drive/12yg25iCa8kXvTPsIYFh8KuMqDNC4Hqlh#scrollTo=VpGpphwiMtuF)
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or collaboration, reach out to your-email\@example.com.
-
 Happy coding! 🎥🤖
 
