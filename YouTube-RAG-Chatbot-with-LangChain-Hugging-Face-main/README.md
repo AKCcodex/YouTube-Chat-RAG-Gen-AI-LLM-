@@ -142,10 +142,7 @@ User Question → Question Embedding → Similarity Search → Context Retrieval
 6. **Context Retrieval**: Find relevant transcript chunks using similarity search
 7. **Answer Generation**: Use retrieved context to generate accurate answers
 
-## Author
 
-**Parth Goswami**
-- GitHub: [@ParthGoswami13](https://github.com/ParthGoswami13)
 
 ## Acknowledgments
 
